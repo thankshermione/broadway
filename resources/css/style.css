@@ -4,6 +4,10 @@ ul {
 	padding: 0;
 }
 
+li {
+	margin: 1em 0;
+}
+
 .footer {
 	text-align: left;
 	font-size: 11px;
@@ -21,6 +25,9 @@ html {
 
 .picturebar {
 	background: url("../images/building.png"), skyblue;
+	background-repeat: no-repeat;
+	background-attachment: cover; 
+	background-position: center top;
 }
 
 h3 {
@@ -45,4 +52,8 @@ h1,
 h2,
 h3 {
 	font-weight: bold;
+}
+
+p {
+	font-size: 14px;
 }
