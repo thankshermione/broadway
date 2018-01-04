@@ -24,7 +24,7 @@ body {
 }
 
 .picturebar {
-	background: url("../images/building.png"), skyblue;
+	background: url("../images/building.png"), dimgray;
 	background-repeat: no-repeat;
 	background-attachment: cover; 
 	background-position: center top;
