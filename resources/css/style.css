@@ -1,3 +1,19 @@
-img {
-	display: block;
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.footer {
+	text-align: left;
+	font-size: 11px;
+	background-color: dimgray;
+}
+
+a {
+	font-size: 18px;
+}
+
+html {
+	text-align: center;
 }
